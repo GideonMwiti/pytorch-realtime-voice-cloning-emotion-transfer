@@ -1,0 +1,11 @@
+{
+  "speaker_embedding_cosine_similarity_target": 0.9677,
+  "speaker_embedding_cosine_similarity_other": 0.0462,
+  "emotion_transfer_accuracy_percent": 100.0,
+  "phonetic_content_preservation": 0.985,
+  "mel_cepstral_distortion_db": 15.14,
+  "mean_latency_ms": 31.79,
+  "std_latency_ms": 3.59,
+  "real_time_factor_rtf": 0.01589,
+  "real_time_speedup_factor": 62.9
+}
